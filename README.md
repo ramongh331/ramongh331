@@ -20,7 +20,7 @@ I am creative and analytical, gaining experience from Film and Graphic Design to
 <br>
   <h2>Jobify</h2>
 <img src="https://i.imgur.com/d99L8ke.gif" alt="Jobify Preview"/><br/>
-<p>Do you find chaotic when you have to navigate through several job sites just to view your saved job applications? May I introduce you to Jobify! Jobify allows users to type in specific job application information and save it in one central location. Let Jobify help you easily move forward in your career. </p>
+<p>Do you find it chaotic when you have to navigate through several job sites just to view your saved job applications? May I introduce you to Jobify! Jobify allows users to type in specific job application information and save it in one central location. Let Jobify help you easily move forward in your career.</p>
 </details>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramongh331&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
