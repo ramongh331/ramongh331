@@ -1,19 +1,28 @@
-### Hi there 👋
+# Hi, I'm Ramón Hernández, Frontend Developer! 👋
 
-<!--
-**ramongh331/ramongh331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am creative and analytical, gaining experience from Film and Graphic Design to Information Technology and Assistive Technology. 
 
-Here are some ideas to get you started:
+<hr/>
+<h3>Tech Stack: Front-End</h3>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>React</li>
+  <li>Tailwind CSS</li>
+  <li>Sass</li>
+  <li>Material UI</li>
+  <li>Figma</li>
+ </ul>
+ 
+<details>
+<summary>Check out my most recent project!</summary>
+<br>
+  <h2>Jobify</h2>
+<img src="https://i.imgur.com/d99L8ke.gif" alt="Jobify Preview"/><br/>
+<p>Do you find chaotic when you have to navigate through several job sites just to view your saved job applications? May I introduce you to Jobify! Jobify allows users to type in specific job application information and save it in one central location. Let Jobify help you easily move forward in your career. </p>
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramongh331&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${ramongh331}.${ramongh331})
+<h4>Check out my <a href="https://docs.google.com/document/d/1wiw12XV2FYtoqgWUFv-xZNhvhHL64YuPXFUGZoH5kQk/edit?usp=sharing">Resume</a> and <a href="https://www.linkedin.com/in/ramon-hernandez-web/">LinkedIn</a>. You can also reach me at my email <a href="mailto:ramongh331@gmail.com">RamonGH331@gmail.com</a>.</h4>
