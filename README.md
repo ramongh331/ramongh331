@@ -16,7 +16,7 @@ I am creative and analytical, gaining experience from Film and Graphic Design to
  </ul>
  
 <details>
-<summary>Check out my most recent project!</summary>
+  <summary><h3>Check out my most recent project!</h3></summary>
 <br>
   <h2>Jobify</h2>
 <img src="https://i.imgur.com/d99L8ke.gif" alt="Jobify Preview"/><br/>
