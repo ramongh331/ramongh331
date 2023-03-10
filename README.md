@@ -16,7 +16,7 @@ As someone who is both creative and analytical, I have gained experience in a di
  </ul>
  
 <details>
-  <summary><h3>Check out my most recent project!</h3></summary>
+  <summary><h3>Jobify Filter System!</h3></summary>
 <br>
   <h2>Jobify</h2>
 <img src="https://i.imgur.com/d99L8ke.gif" alt="Jobify Preview"/><br/>
