@@ -1,6 +1,6 @@
 # Hi, I'm Ramón Hernández, Frontend Developer! 👋
 
-I am creative and analytical, gaining experience from Film and Graphic Design to Information Technology and Assistive Technology. 
+As someone who is both creative and analytical, I have gained experience in a diverse range of fields including film, graphic design, information technology, and assistive technology, ensuring accessibility is always at the forefront of my work.
 
 <hr/>
 <h3>Tech Stack: Front-End</h3>
